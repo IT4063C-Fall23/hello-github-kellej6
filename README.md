@@ -32,7 +32,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - I did not struggle with this assignment as I have used GitHub frequently for work.
 
 **I need the instructor to help me with:** (repeat as needed)
-- For this assignment, I do/did not the assistance from the instructor.
+- For this assignment, I do/did not need the assistance from the instructor.
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
@@ -42,4 +42,4 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - I did not need any assistance from resources.  I used my prior experience.
   
 **I received help from the following people:** (repeat as needed)
-- I did not receive help for this assignment.  Instead, I used my prior experience.
+- I did not receive help on this assignment.  Instead, I used my prior experience.
