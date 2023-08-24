@@ -26,20 +26,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I refreshed my knowledge of GitHub and VS Code as I have previous experience using both.
 
 **I struggled with:** (repeat as needed)
-- .
+- I did not struggle with this assignment as I have used GitHub frequently for work.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- For this assignment, I do/did not the assistance from the instructor.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 ------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I did not need any assistance from resources.  I used my prior experience.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I did not receive help for this assignment.  Instead, I used my prior experience.
